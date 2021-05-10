@@ -133,10 +133,12 @@ for(let x = 1; 1 < carMakes.length; x++) {
 }
 
 for(let i = 2; 2 < sealTeams; i++) {
-    console.log(`{i} {sealTeams}` trained);
+    console.log(`{i} {sealTeams} trained`);
 }
 
 for( let y = 2; y < sealTeams; i++) {
      let sealCheck = sealTeams[y];
      console.log(sealTeams);
 }
+
+
